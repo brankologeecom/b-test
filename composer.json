@@ -1,0 +1,17 @@
+{
+    "name": "branko-logeecom/b-test",
+    "autoload": {
+        "psr-4": {
+            "BrankoLogeecom\\BTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Branko Janjic",
+            "email": "branko.janjic@logeecom.com"
+        }
+    ],
+    "require": {
+        "branko-logeecom/a-test": "^1.0"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "6ec691afba9384932900efbcac5dea4d",
+    "packages": [
+        {
+            "name": "branko-logeecom/a-test",
+            "version": "1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/brankologeecom/a-test.git",
+                "reference": "1a5c3ba82ac77824b526d0ac199ef6e67fa94b82"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/brankologeecom/a-test/zipball/1a5c3ba82ac77824b526d0ac199ef6e67fa94b82",
+                "reference": "1a5c3ba82ac77824b526d0ac199ef6e67fa94b82",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Branko\\ATest\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "authors": [
+                {
+                    "name": "Branko Janjic",
+                    "email": "branko.janjic@logeecom.com"
+                }
+            ],
+            "support": {
+                "issues": "https://github.com/brankologeecom/a-test/issues",
+                "source": "https://github.com/brankologeecom/a-test/tree/1.0"
+            },
+            "time": "2023-10-12T09:43:52+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.1.0"
+}
